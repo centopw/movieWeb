@@ -1,0 +1,405 @@
+{
+  "page": 3,
+  "results": [
+  {
+  "adult": false,
+  "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+  "genre_ids": [
+  28,
+  12,
+  14
+  ],
+  "id": 572802,
+  "original_language": "en",
+  "original_title": "Aquaman and the Lost Kingdom",
+  "overview": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+  "popularity": 480.998,
+  "poster_path": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+  "release_date": "2023-12-20",
+  "title": "Aquaman and the Lost Kingdom",
+  "video": false,
+  "vote_average": 6.819,
+  "vote_count": 2143
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+  "genre_ids": [
+  28,
+  53,
+  18
+  ],
+  "id": 866398,
+  "original_language": "en",
+  "original_title": "The Beekeeper",
+  "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+  "popularity": 426.955,
+  "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+  "release_date": "2024-01-08",
+  "title": "The Beekeeper",
+  "video": false,
+  "vote_average": 7.475,
+  "vote_count": 1849
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
+  "genre_ids": [
+  80,
+  28,
+  53
+  ],
+  "id": 1227816,
+  "original_language": "en",
+  "original_title": "Red Right Hand",
+  "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+  "popularity": 400.654,
+  "poster_path": "/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+  "release_date": "2024-02-22",
+  "title": "Red Right Hand",
+  "video": false,
+  "vote_average": 7.421,
+  "vote_count": 70
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/shS6buEDnEDoHTdLbGzCoDIZ9ur.jpg",
+  "genre_ids": [
+  27
+  ],
+  "id": 840889,
+  "original_language": "en",
+  "original_title": "Stopmotion",
+  "overview": "Ella Blake, a stop-motion animator struggling to control her demons after the loss of her overbearing mother, embarks upon the creation of a film that becomes the battleground for her sanity. As Ella’s mind starts to fracture, the characters in her project take on a life of their own.",
+  "popularity": 411.312,
+  "poster_path": "/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+  "release_date": "2024-02-22",
+  "title": "Stopmotion",
+  "video": false,
+  "vote_average": 7.083,
+  "vote_count": 36
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
+  "genre_ids": [
+  10751,
+  878,
+  28,
+  35
+  ],
+  "id": 1094556,
+  "original_language": "en",
+  "original_title": "The Thundermans Return",
+  "overview": "Twins Phoebe and Max are enjoying their superhero lifestyle, but when one 'save' goes awry, the Thundermans are sent back to Hiddenville. While Hank and Barb enjoy their return, and Billy and Nora look forward to a normal high school life, Max and Phoebe are determined to regain their superhero status.",
+  "popularity": 385.412,
+  "poster_path": "/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg",
+  "release_date": "2024-03-07",
+  "title": "The Thundermans Return",
+  "video": false,
+  "vote_average": 7.892,
+  "vote_count": 79
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/xPTefQ4CZpWapxiEsAZsxtidS49.jpg",
+  "genre_ids": [
+  10751,
+  878
+  ],
+  "id": 682075,
+  "original_language": "en",
+  "original_title": "The Adventure of A.R.I.: My Robot Friend",
+  "overview": "A teenager summons the courage to help a friendly robot known as A.R.I. kidnapped by a ruthless lab director working for a powerful corporation seeking to turn him into a dangerous weapon in order to rule the world.",
+  "popularity": 401.66,
+  "poster_path": "/txcjXiyhBvsSFyZtgCHWW7CyIeN.jpg",
+  "release_date": "2022-01-13",
+  "title": "The Adventure of A.R.I.: My Robot Friend",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 8
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/TGsfNWkASegCfAn6ED1b08a9O6.jpg",
+  "genre_ids": [
+  27,
+  9648,
+  53
+  ],
+  "id": 1125311,
+  "original_language": "en",
+  "original_title": "Imaginary",
+  "overview": "When Jessica moves back into her childhood home with her family, her youngest stepdaughter Alice develops an eerie attachment to a stuffed bear named Chauncey she finds in the basement. Alice starts playing games with Chauncey that begin playful and become increasingly sinister. As Alice’s behavior becomes more and more concerning, Jessica intervenes only to realize Chauncey is much more than the stuffed toy bear she believed him to be.",
+  "popularity": 354.697,
+  "poster_path": "/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
+  "release_date": "2024-03-06",
+  "title": "Imaginary",
+  "video": false,
+  "vote_average": 5.944,
+  "vote_count": 98
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/ruKNVJFViAyR4jguVboFXTskMOe.jpg",
+  "genre_ids": [
+  53,
+  28,
+  27
+  ],
+  "id": 1028703,
+  "original_language": "en",
+  "original_title": "The OctoGames",
+  "overview": "Eight contestants compete in eight deadly, classic children's games. They seek fame beyond their wildest dreams, competing for the chance to take over the YouTube channel of the famous yet elusive masked content creator known only as \"JaxPro\".",
+  "popularity": 401.707,
+  "poster_path": "/qGz5rffXhegQH5PGUDiObqoOt06.jpg",
+  "release_date": "2022-10-07",
+  "title": "The OctoGames",
+  "video": false,
+  "vote_average": 5.571,
+  "vote_count": 99
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/zCViszfnUOCJBTCTr9YN1VWvqnn.jpg",
+  "genre_ids": [
+  28,
+  35
+  ],
+  "id": 897087,
+  "original_language": "en",
+  "original_title": "Freelance",
+  "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+  "popularity": 371.33,
+  "poster_path": "/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+  "release_date": "2023-10-05",
+  "title": "Freelance",
+  "video": false,
+  "vote_average": 6.556,
+  "vote_count": 655
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg",
+  "genre_ids": [
+  28,
+  18,
+  878
+  ],
+  "id": 124905,
+  "original_language": "en",
+  "original_title": "Godzilla",
+  "overview": "Ford Brody, a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe. Soon, both men are swept up in an escalating crisis when an ancient alpha predator arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.",
+  "popularity": 315.15,
+  "poster_path": "/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg",
+  "release_date": "2014-05-14",
+  "title": "Godzilla",
+  "video": false,
+  "vote_average": 6.315,
+  "vote_count": 8702
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/elH2ZWRHOKpjUNHROvpTCZIvuO7.jpg",
+  "genre_ids": [
+  27,
+  53
+  ],
+  "id": 983526,
+  "original_language": "no",
+  "original_title": "Leave",
+  "overview": "A young woman tries to find her origins after having been abandoned as an infant at a cemetery wrapped in a cloth with satanic symbols, but as she gets closer to answers a malevolent spirit is telling her to leave.",
+  "popularity": 393.659,
+  "poster_path": "/aiw8k5wXSCkueUD7eavmnNtaQFO.jpg",
+  "release_date": "2022-10-28",
+  "title": "Leave",
+  "video": false,
+  "vote_average": 5.989,
+  "vote_count": 47
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/mOQV573Tr0WxI2VVOLKwtfaRGZH.jpg",
+  "genre_ids": [
+  10749,
+  35,
+  12
+  ],
+  "id": 949429,
+  "original_language": "th",
+  "original_title": "ผจญภัยล่าขุมทรัพย์หมื่นลี้",
+  "overview": "Joy, a secretary at a large multinational company, has an online shopping problem, likes to read adventure novels and watch travel and adventure shows. She daydreams about living a life of adventure.",
+  "popularity": 384.284,
+  "poster_path": "/z3SeS4wjKQ3TjHSvRidovGJbHYb.jpg",
+  "release_date": "2023-12-22",
+  "title": "The Adventures",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 15
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+  "genre_ids": [
+  18,
+  878,
+  28
+  ],
+  "id": 695721,
+  "original_language": "en",
+  "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+  "popularity": 299.149,
+  "poster_path": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+  "release_date": "2023-11-15",
+  "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "video": false,
+  "vote_average": 7.195,
+  "vote_count": 2012
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/9JNsAIFMu4o37AgnU1JVtR6AWsK.jpg",
+  "genre_ids": [
+  10749,
+  28,
+  18
+  ],
+  "id": 1248795,
+  "original_language": "tr",
+  "original_title": "Romantik Hırsız",
+  "overview": "After learning that the art thief she has been chasing is her ex-lover, an officer working for Interpol concocts a plan to catch him red-handed.",
+  "popularity": 334.607,
+  "poster_path": "/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg",
+  "release_date": "2024-03-14",
+  "title": "Art of Love",
+  "video": false,
+  "vote_average": 6.686,
+  "vote_count": 78
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+  "genre_ids": [
+  16,
+  10751,
+  12,
+  14,
+  35
+  ],
+  "id": 502356,
+  "original_language": "en",
+  "original_title": "The Super Mario Bros. Movie",
+  "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+  "popularity": 286.82,
+  "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+  "release_date": "2023-04-05",
+  "title": "The Super Mario Bros. Movie",
+  "video": false,
+  "vote_average": 7.683,
+  "vote_count": 8231
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg",
+  "genre_ids": [
+  80,
+  28
+  ],
+  "id": 370464,
+  "original_language": "en",
+  "original_title": "The Masked Saint",
+  "overview": "The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.",
+  "popularity": 378.851,
+  "poster_path": "/zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg",
+  "release_date": "2016-01-08",
+  "title": "The Masked Saint",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 36
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/xStFwzqBWDRyUz3BldisuUY7kjW.jpg",
+  "genre_ids": [
+  14,
+  12,
+  10770
+  ],
+  "id": 885303,
+  "original_language": "it",
+  "original_title": "I viaggiatori",
+  "overview": "Time jump to 1939 with teenager Max and his friends as they try to navigate Mussolini's Rome and find Max's missing brother.",
+  "popularity": 386.102,
+  "poster_path": "/38N7GRJLu7IWyEdil96YobJ5LWM.jpg",
+  "release_date": "2022-11-21",
+  "title": "The Voyagers",
+  "video": false,
+  "vote_average": 5.453,
+  "vote_count": 43
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/8yv5VtWX1gBMWZLiekEBaygJj3S.jpg",
+  "genre_ids": [
+  16,
+  10751,
+  18,
+  12,
+  14
+  ],
+  "id": 1022789,
+  "original_language": "en",
+  "original_title": "Inside Out 2",
+  "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+  "popularity": 298.003,
+  "poster_path": "/xeqXXTE1Cd3qNaAEOT6qbhhCsgJ.jpg",
+  "release_date": "2024-06-12",
+  "title": "Inside Out 2",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0
+  },
+  {
+  "adult": false,
+  "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+  "genre_ids": [
+  16,
+  12,
+  14
+  ],
+  "id": 508883,
+  "original_language": "ja",
+  "original_title": "君たちはどう生きるか",
+  "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+  "popularity": 340.564,
+  "poster_path": "/2M1p3PPwTV0gV2lsR1Rggby8dQw.jpg",
+  "release_date": "2023-07-14",
+  "title": "The Boy and the Heron",
+  "video": false,
+  "vote_average": 7.447,
+  "vote_count": 1134
+  },
+  {
+  "adult": false,
+  "backdrop_path": null,
+  "genre_ids": [
+  16,
+  14
+  ],
+  "id": 59300,
+  "original_language": "ja",
+  "original_title": "デンゼルを中心としたオリジナルアニメ",
+  "overview": "It's been four years since Meteor fell on Midgar. Denzel meets Reeve at an outskirts coffee shop about joining the World Regenesis Organization. Upon the request Denzel tells Reeve about what his life was like prior to the Meteor incident.",
+  "popularity": 314.871,
+  "poster_path": "/jn0qp1t7mExBze9qzy4pryFCbpm.jpg",
+  "release_date": "2009-04-16",
+  "title": "Final Fantasy VII: On the Way to a Smile - Episode Denzel",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 26
+  }
+  ],
+  "total_pages": 43283,
+  "total_results": 865653
+  }
